@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <category display_value="Administration">647e6524c0a80a080010856a87e15ce2</category>
         <description>Personal wish list application</description>
         <device_type>browser</device_type>
         <hint>Personal wish list application</hint>
@@ -14,7 +14,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b479e1a193568610bb37fbf08bba104f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Wish List</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_965842_wish_list">8ce7a1a193568610bb37fbf08bba10c9</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Wish List">8ce7a1a193568610bb37fbf08bba10c9</sys_scope>
         <sys_update_name>sys_app_application_b479e1a193568610bb37fbf08bba104f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-21 00:34:39</sys_updated_on>
+        <sys_updated_on>2024-05-21 00:37:12</sys_updated_on>
         <title>Wish List</title>
         <view_name/>
     </sys_app_application>
